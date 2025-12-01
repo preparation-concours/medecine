@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="../svt/">Svt</a> •
+  <a href="../maths/">Mathématiques</a> •
+  <a href="../physique/">Physique</a> •
+  <a href="../chimie/">Chimie</a> •
+  <a href="../chimie/">Psychotechnique</a>
+</p>
+
+---
+
 # 🧬 SVT – Extraits du Manuel Visa Médecine (Version Démo)
 
 Ce dossier contient des extraits du manuel _Visa Médecine_ pour la préparation au concours de médecine au Maroc.  
@@ -7,10 +17,29 @@ Ces ressources permettent aux étudiants de se familiariser avec la structure de
 
 ## 📄 Extraits disponibles
 
-Voici quelques pages issues du manuel :
+Voici 2 questions issues du manuel :
 
-![Question N°1](./Q1.png)
-![Question N°2](./Q2.png)
+<table>
+<tr>
+
+<td align="center" style="padding: 0 5px;">
+<a href="./Q1.png" target="_blank">
+  <img src="./Q1.png" alt="Question 1" width="100%">
+</a>
+<br>
+<sub><b>Question N°1</b></sub>
+</td>
+
+<td align="center" style="padding: 0 5px;">
+<a href="./Q2.png" target="_blank">
+  <img src="./Q2.png" alt="Question 2" width="100%">
+</a>
+<br>
+<sub><b>Question N°2</b></sub>
+</td>
+
+</tr>
+</table>
 
 _(Les images présentées ci-dessus sont des extraits démonstratifs et ne représentent pas la totalité du manuel.)_
 
@@ -44,11 +73,13 @@ Ces extraits ne représentent qu’une petite partie du manuel complet.
 
 Pour aller plus loin dans votre préparation, vous pouvez accéder aux ressources complètes :
 
-### 📘 Manuel Complet *Visa Médecine*
+### 📘 Manuel Complet _Visa Médecine_
+
 Accédez au manuel intégral, aux QCM complets et aux corrigés vidéo :  
 👉 https://medecine.visaconcours.ma/correction/svt
 
 ### 🎓 Préparation au Concours (Présentiel & Distanciel)
+
 Rejoignez la préparation complète au concours de médecine, disponible en **présentiel** et **en ligne** :  
 👉 https://concours.visaschool.ma/preparation-concours/medecine
 
