@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="../svt/">Svt</a> •
-  <a href="../maths/">Mathématiques</a> •
-  <a href="../physique/">Physique</a> •
-  <a href="../chimie/">Chimie</a> •
-  <a href="../chimie/">Psychotechnique</a>
+  <span>Svt</span> •
+  <a href="../maths">Mathématiques</a> •
+  <a href="../physique">Physique</a> •
+  <a href="../chimie">Chimie</a> •
+  <a href="../psyco">Psychotechnique</a>
 </p>
 
 ---
@@ -23,19 +23,17 @@ Voici 2 questions issues du manuel :
 <tr>
 
 <td align="center" style="padding: 0 5px;">
+<b>Question N°1</b><br>
 <a href="./Q1.png" target="_blank">
   <img src="./Q1.png" alt="Question 1" width="100%">
 </a>
-<br>
-<sub><b>Question N°1</b></sub>
 </td>
 
 <td align="center" style="padding: 0 5px;">
+<b>Question N°2</b><br>
 <a href="./Q2.png" target="_blank">
   <img src="./Q2.png" alt="Question 2" width="100%">
 </a>
-<br>
-<sub><b>Question N°2</b></sub>
 </td>
 
 </tr>

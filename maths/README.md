@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="../svt">Svt</a> •
+  <span>Mathématiques</span> •
+  <a href="../physique">Physique</a> •
+  <a href="../chimie">Chimie</a> •
+  <a href="../psycho"> Psychotechnique</a>
+</p>
+
+---
+
 # 📐 Mathématiques – Extraits du Manuel Visa Médecine (Version Démo)
 
 Ce dossier contient des extraits du manuel _Visa Médecine_ dédiés à la préparation de l’épreuve de Mathématiques du concours de médecine au Maroc.  
@@ -7,10 +17,27 @@ Ces ressources permettent aux étudiants de s’entraîner sur des exercices rep
 
 ## 📄 Extraits inclus
 
-Voici quelques pages extraites du manuel :
+Voici 2 questions issues du manuel :
 
-![Question N°1](./Q1.png)  
-![Question N°2](./Q2.png)
+<table>
+<tr>
+
+<td align="center" style="padding: 0 5px;">
+<b>Question N°1</b><br>
+<a href="./Q1.png" target="_blank">
+  <img src="./Q1.png" alt="Question 1" width="100%">
+</a>
+</td>
+
+<td align="center" style="padding: 0 5px;">
+<b>Question N°2</b><br>
+<a href="./Q2.png" target="_blank">
+  <img src="./Q2.png" alt="Question 2" width="100%">
+</a>
+</td>
+
+</tr>
+</table>
 
 > _Les images ci-dessus sont des aperçus tirés de la version démo._
 
